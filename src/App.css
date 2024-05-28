@@ -1,0 +1,11 @@
+.thumb{
+    height: 250px;
+    overflow: hidden;
+
+
+}
+
+.thumb img{
+    height: 250px;
+    object-fit: cover;
+}
